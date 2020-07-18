@@ -25,7 +25,7 @@ Registered: Black Box Theme
 
 /Import Base CSS File*/
 
-@import url(https://raw.githubusercontent.com/Danny9182/BetterDiscordStuff/master/midnight/css/base.css);
+@import url('https://raw.githubusercontent.com/Danny9182/BetterDiscordStuff/master/midnight/css/base.css');
 
 /*Root*/
 
