@@ -22,14 +22,14 @@
                                         |  $$$$$$/
                                          \______/
 Registered: Black Box Theme
-
 /Import Base CSS File*/
 
-@import url('https://raw.githubusercontent.com/Danny9182/BetterDiscordStuff/master/midnight/css/base.css');
+@import url('https://danny9182.github.io/BetterDiscordStuff/midnight/css/base.css');
 
 /*Root*/
 
 :root {
+
 	/*Primary Variables*/
 	--lv1: #00000f;
 	--accent: #1973d3;
@@ -60,4 +60,5 @@ Registered: Black Box Theme
 	/*SourceCheck*/
 	--sourcecheck-unsafe-embed-bg-dark: var(--lv1);
 	--sourcecheck-unsafe-shadow-tint-dark: var(--lv1);
+	
 }
