@@ -2,8 +2,8 @@
  * @name Midnight UI
  * @author Tropical#8908
  * @version Auto
- * @description A dark, flat and modern user interface for DiscordApp.
- * @source https://github.com/tropix126/betterDiscordStuff/blob/master/midnight/css/base.css
+ * @description A dark, flat and modern user interface for DiscordApp. Maintained by Fx Danny (288290878169284619).
+ * @source https://raw.githubusercontent.com/Danny9182/BetterDiscordStuff/master/midnight/css/base.css
  * @website https://tropix126.github.io/BetterDiscordStuff/midnight/
  * @invite TeRQEPb 
  * @authorId 254362351170617345
@@ -25,7 +25,7 @@ Registered: Black Box Theme
 
 /Import Base CSS File*/
 
-@import url('https://tropix126.github.io/BetterDiscordStuff/midnight/css/base.css');
+@import url(https://raw.githubusercontent.com/Danny9182/BetterDiscordStuff/master/midnight/css/base.css);
 
 /*Root*/
 
