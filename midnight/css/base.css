@@ -10805,8 +10805,7 @@ header + .peopleListItem-2nzedh {
 	font-size:var(--size2);
 }
 
-/*temp fix please bear jump button fyi*/
-.jumpButton-JkYoYK {
-	right: -9px;
-	top: 20px;
+/*fixed jump to button*/
+.contents-2mQqc9 .header-23xsNx {
+    z-index: auto !important;
 }
