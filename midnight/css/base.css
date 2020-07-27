@@ -10809,3 +10809,9 @@ header + .peopleListItem-2nzedh {
 .contents-2mQqc9 .header-23xsNx {
     z-index: auto !important;
 }
+
+.jumpButton-JkYoYK {
+	right: 25px;
+    top: 16px;
+    cursor: pointer;
+} 
