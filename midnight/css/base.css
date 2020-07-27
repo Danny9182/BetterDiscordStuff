@@ -10811,7 +10811,6 @@ header + .peopleListItem-2nzedh {
 }
 
 .jumpButton-JkYoYK {
-	right: 25px;
-    top: 16px;
-    cursor: pointer;
+	right: 25px !important;
+    top: 16px !important;
 } 
