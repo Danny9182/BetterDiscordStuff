@@ -6337,7 +6337,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .avatar-1BDn8e[src*="254362351170617345"] + h2 .timestamp-3ZCmNB::before {
-    content: 'Theme Dev';
+    content: 'Trop chan';
     text-transform: uppercase;
     font-size: 10px !important;
     font-weight: 500;
@@ -6349,6 +6349,29 @@ html.theme-light body.bd-minimal #app-mount::before {
     border: 2px solid #e78e4e;
     border-radius: 1px;
     background: rgba(231, 142, 78, 0.5);
+    text-shadow: none;
+    color: rgba(255, 255, 255, 0.95);
+    position: absolute;
+    right: 0px;
+    margin: 0 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: default;
+}
+
+.avatar-1BDn8e[src*="288290878169284619"] + h2 .timestamp-3ZCmNB::before {
+    content: 'Theme Dev';
+    text-transform: uppercase;
+    font-size: 10px !important;
+    font-weight: 500;
+    padding: 2px 4px;
+    line-height: normal;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    border: 2px solid #47ccad;
+    border-radius: 1px;
+    background: rgba(26, 186, 149, 0.5);
     text-shadow: none;
     color: rgba(255, 255, 255, 0.95);
     position: absolute;
@@ -7914,7 +7937,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 /*removes typying bg*/
 .chat-3bRxxu form .typing-2GQL18 {
-	background: transparent;
+    background: transparent;
 }
 
 .full-motion .base-gE7OpD .cooldownWrapper-3joyFc {
@@ -8538,19 +8561,19 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .accommodateScrollbar-21WtU7 .scroller-3BxosC {
-	padding: 0;
+    padding: 0;
 }
 
 .label-22pbtT {
-	margin-left: 5px;
+    margin-left: 5px;
 }
 
 .item-1tOPte {
-	border-left: 3px solid rgba(255, 255, 255, .2);
+    border-left: 3px solid rgba(255, 255, 255, .2);
 }
 
 .colorDefault-2K3EoJ.focused-3afm-j {
-	background-color: transparent !important;
+    background-color: transparent !important;
     background-image: linear-gradient(to right, rgba(255, 255, 255, .08), rgba(255, 255, 255, .02))!important;
 }
 
@@ -14097,17 +14120,17 @@ header + .peopleListItem-2nzedh {
 .app-1q1i1E.da-app,
 .typeWindows-1za-n7.withFrame-haYltI.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.da-typeWindows.da-withFrame.da-titleBar.da-horizontalReverse.da-flex.da-directionRowReverse.da-justifyStart.da-alignStretch 
 {
-	background-color: rgba(0,0,0,0.5) !important;
+    background-color: rgba(0,0,0,0.5) !important;
 }
 
 /*logger fixes (not whole who cares)*/
 .cozy-3raOZG .markupRtl-26VWXC {
-	margin-left: 55px;
+    margin-left: 55px;
 }
 
 /*badges everywhere margin*/
 .badges-XRnWAp.badgesChat-f_cbR8.mini-g-JPgX {
-	left: 2px;
+    left: 2px;
 }
 
 /*bettertypyingusers*/
@@ -14270,6 +14293,11 @@ border-bottom: 2px solid var(--hover);
 .contents-2mQqc9 .header-23xsNx {
     z-index: auto !important;
 }
+
+.jumpButton-JkYoYK {
+    right: 25px;
+    top: 16px;
+} 
 
 
 
