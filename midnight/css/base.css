@@ -10836,4 +10836,22 @@ header + .peopleListItem-2nzedh {
 .jumpButton-JkYoYK {
 	right: 25px !important;
     top: 16px !important;
-} 
+}
+
+/*unread dm lil fix*/
+.bar-30k2ka {
+	top: 12px;
+}
+
+/*updater fix*/
+#pluginNotice {
+    z-index: 999;
+    background: #0089ff;
+    text-align: center;
+    pointer-events: all;
+}
+#pluginNotice span {
+    position: relative;
+    top: 10px;
+    color: white;
+}  
