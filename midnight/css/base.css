@@ -10843,15 +10843,3 @@ header + .peopleListItem-2nzedh {
 	top: 12px;
 }
 
-/*updater fix*/
-#pluginNotice {
-    z-index: 999;
-    background: #0089ff;
-    text-align: center;
-    pointer-events: all;
-}
-#pluginNotice span {
-    position: relative;
-    top: 10px;
-    color: white;
-}  
